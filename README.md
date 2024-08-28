@@ -2,7 +2,7 @@
 <img src="https://cdn.discordapp.com/attachments/630097127703445505/903968687986454558/unknown.png">
 </p>
 <p align="center">
-    weloveusyrus
+    swattingscene
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=weloveusyrus&color=grey">
 </p>
