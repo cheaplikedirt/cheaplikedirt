@@ -1,3 +1,38 @@
-<div id="header" align="center">
-  <img src="https://camo.githubusercontent.com/fde485e80b9e7ef72915dca0d73a8c50d41224b201d3e75a5067697db864a098/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3633303039373132373730333434353530352f3930333936383638373938363435343535382f756e6b6e6f776e2e706e67" width="100"/>
-</div>
+<p align="center">  
+<img src="https://cdn.discordapp.com/attachments/630097127703445505/903968687986454558/unknown.png">
+</p>
+<p align="center">
+    weloveusyrus
+<p align="center">  
+<img src="https://komarev.com/ghpvc/?username=weloveusyrus&color=grey">
+</p>
+    <p align="center">
+  <img src="https://discord.c99.nl/widget/theme-2/410197890993094666.png"/>
+</p>
+<p align="center">
+Currently learning how to skid
+<p align="center">
+    <a href="https://discord.gg/4nSYqZ8KAA">Discord Server</a>
+    
+# LANGUAGES AND TOOLS
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+
+| <a href="https://github.com/weloveusyrus/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=weloveusyrus&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/weloveusyrus/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+# Contact
+[youtube]: https://www.youtube.com/channel/UC4mAPtgJIpj40wTkTX-oM2g </br>
+[instagram]: https://www.instagram.com/welovesyrus/ </br>
+
+#WE LOVE SYRUS
+<p align="center">
+  <a href="https://github.com/WeLoveuSyrus">
+    <img src="https://i.pinimg.com/564x/d4/4d/7c/d44d7cbcf352ea12f3fc571a353b66cb.jpg"/>
+     </a>
+</p>
