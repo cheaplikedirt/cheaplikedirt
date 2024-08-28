@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
+<img src="https://www.deviantart.com/cortoony/art/r-b-haunter-821060105">
 </p>
 <p align="center">
     swattingscene
