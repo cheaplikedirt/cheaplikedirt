@@ -30,7 +30,7 @@ Currently learning how to skid
 [youtube]: https://www.youtube.com/channel/UC4mAPtgJIpj40wTkTX-oM2g </br>
 [instagram]: https://www.instagram.com/welovesyrus/ </br>
 
-#WE LOVE SYRUS
+#777
 <p align="center">
   <a href="https://github.com/WeLoveuSyrus">
     <img src="https://i.pinimg.com/564x/d4/4d/7c/d44d7cbcf352ea12f3fc571a353b66cb.jpg"/>
